@@ -41,7 +41,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>com.constructor.Constructor_Repo.StudentsRecord</mainClass>
+							<mainClass>packfinal.StudentsRecord</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
